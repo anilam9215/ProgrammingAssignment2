@@ -1,9 +1,9 @@
 #id:anilam9215
 #week-3- peer review assignment
 
-#makeCacheMatrix(): creates a special â€œmatrixâ€ object that can cache its inverse.
-#cacheSolve(): computes the inverse of the â€œmatrixâ€ returned by makeCacheMatrix(). If the inverse has already been 
-#calculated and the matrix has not changed, itâ€™ll retrieves the inverse from the cache directly.
+#makeCacheMatrix(): creates a special “matrix” object that can cache its inverse.
+#cacheSolve(): computes the inverse of the “matrix” returned by makeCacheMatrix(). If the inverse has already been 
+#calculated and the matrix has not changed, it’ll retrieves the inverse from the cache directly.
 
 ######################################################################################
         ## @x: a square invertible matrix
